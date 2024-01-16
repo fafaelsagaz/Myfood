@@ -1,0 +1,31 @@
+.imagi{
+    width: 50px;
+}
+
+#login{
+    width: 10px;
+    margin-left: 30px;
+}
+
+#btnlinha{
+    background-color: white;
+    color: black;
+    width: 100px;
+    border-radius: 25%;
+    align-self: flex-start;
+    align-content: base;
+    height: 40px;
+    border-color: LightGrey;
+    margin-left: 60px;
+    }
+    
+    #txt{
+     margin-left: 20px;
+     margin-bottom: 30px;
+     color: gray;
+    }
+
+    #ciadde{
+    color: lightgrey;
+    
+    }

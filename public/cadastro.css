@@ -1,0 +1,83 @@
+/*  corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  /*  contêiner da página */
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  /*  título da página */
+  h1 {
+    text-align: center;
+    color: #d35400;
+    margin-bottom: 20px;
+  }
+  
+  /*  formulário de cadastro */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /*  etiquetas de entrada */
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  /* campos de entrada */
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="tel"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="tel"] {
+    background-image: url("telefone.png");
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: 5px center;
+    padding-left: 30px;
+    width: 200px;
+  }
+  
+  /*  botão de envio */
+  button[type="submit"] {
+    background-color: red;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: red;
+  }
+
+
+
+  p{
+    font-weight: bold;
+  }
+
+  #fod{
+    width: 200px;
+    margin-left: 200px;
+  }

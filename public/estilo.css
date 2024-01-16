@@ -1,0 +1,127 @@
+#entrar{
+background-color: #ea1d2c;
+}
+
+.cria{
+border: none;
+background-color: white;
+color: #ea1d2c;
+}
+
+.titulo{
+    margin-top: 100px;
+    margin-left:360px;
+   }
+
+   .desc{
+    margin-left:420px;
+    margin-top:10px;
+    color: grey;
+    }
+
+#buscar{
+    background-color: #ea1d2c;
+    border-radius: 10%;
+}
+
+
+.imagi{
+    width: 50px;
+}
+
+#pesq{
+background-color: white;
+border-right: none;
+}
+
+#barra{
+    border-left: none;
+}
+
+#card1{
+    background-color: #ea1d2c;
+    width: 24rem;
+    border-radius: 7%;
+}
+
+#card2{
+    background-color: #b6d048;
+    width: 24rem;
+    border-radius: 7%;
+     height: 300px;
+}
+
+#imgcard1{
+width: 200px;
+align-self: flex-end;
+margin-top: 50px;
+height: 130px;
+margin-bottom: 10px;
+
+
+}
+
+#imgcard2{
+    width: 200px;
+    align-self: flex-end;
+    margin-top: 50px;
+     height:130px ;
+    }
+
+.textcard{
+color: white;
+font-size: 35px;
+margin-top: 30px;
+margin-left: 20px;
+}
+
+#btncard1{
+background-color: #ea1d2c;
+color: white;
+width: 30%;
+border-radius: 15%;
+align-self: flex-start;
+align-content: base;
+}
+
+#btncard2{
+    background-color: #b6d048;
+    color: white;
+    width: 30%;
+    border-radius: 15%;
+    align-self: flex-start;
+    align-content: base;
+    }
+
+    
+    #bdrinks{
+        background-color: yellow;
+        height: 90px;
+        width: 200px;
+        border-radius: 20px;
+        border-color: gray;
+        border: 10px;
+    }
+    
+    #bfarmacia{
+        background-color: salmon;
+        height: 90px;
+        width: 190px;
+        border-radius: 20px;
+        border-color: gray;
+        border: 10px;
+    }
+    
+    #bpetshop{
+        background-color: purple;
+        height: 90px;
+        width: 200px;
+        border-radius: 20px;
+        border-color: gray;
+        border: 10px;
+    }
+    
+    .txt{
+        font-weight: bold;
+    
+    }
